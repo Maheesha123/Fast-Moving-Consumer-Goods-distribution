@@ -23,7 +23,7 @@ All figures come from the queries in [`queries/`](queries/). Money is in Rs, and
 **1. Returns jumped in January 2025, and 15 distributors explain it.**
 The share of units returned (expired or damaged) rose from 15.0% in 2024 to 16.9% in 2025, a step change in January 2025 that never reversed, while units shipped stayed flat (12.96M vs 12.93M). Net units sold fell 2.5%, and net sales value fell from Rs 2,644.1M to Rs 2,578.3M (Rs 65.8M).
 
-![Monthly return rate](images/01_monthly_return_rate.png)
+![Monthly return rate](01_monthly_return_rate.png)
 
 **2. The cause is a small group of distributors.**
 15 of 150 distributors (10%) returned more than 25% of their units in every month of 2025, averaging 34.9%, against 15.0% for all other distributors. Their returns above the normal rate come to about 249,000 units, worth about Rs 59.6M at list price, roughly 90% of the fall in net sales value. These distributors are concentrated in four regions (Colombo, Kandy, Kurunegala and Matara).
